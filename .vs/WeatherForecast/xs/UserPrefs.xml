@@ -1,7 +1,8 @@
 ﻿<Properties StartupConfiguration="{FE93EBF6-0854-4970-8003-1D784FE2D5BB}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Dockerfile">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
     <Files>
-      <File FileName="Dockerfile" Line="22" Column="45" />
+      <File FileName="Dockerfile" Line="5" Column="10" />
+      <File FileName="Program.cs" Line="14" Column="23" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -9,7 +10,7 @@
           <Node name="WeatherForecast" expanded="True">
             <Node name="docker-compose" expanded="True" />
             <Node name="WeatherForecast" expanded="True">
-              <Node name="Dockerfile" selected="True" />
+              <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>
