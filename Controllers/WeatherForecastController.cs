@@ -31,8 +31,7 @@ namespace WeatherForecast.Controllers
             {
                 Date = DateTime.Now.AddDays(index),
                 TemperatureC = rng.Next(-20, 55),
-                Summary = Summaries[rng.Next(Summaries.Length)],
-                Code = "Test new image"
+                Summary = Summaries[rng.Next(Summaries.Length)]
             })
             .ToArray();
         }
