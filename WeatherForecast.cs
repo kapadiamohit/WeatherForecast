@@ -4,7 +4,7 @@ namespace WeatherForecast
 {
     public class WeatherForecast
     {
-        public string Code => "Docker Image New";
+        public string Code {get;set;}
         public DateTime Date { get; set; }
 
         public int TemperatureC { get; set; }
