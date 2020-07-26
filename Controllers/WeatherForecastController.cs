@@ -32,7 +32,7 @@ namespace WeatherForecast.Controllers
                 Date = DateTime.Now.AddDays(index),
                 TemperatureC = rng.Next(-20, 55),
                 Summary = Summaries[rng.Next(Summaries.Length)],
-                Code = "Mohit's Weather Systems"
+                Code = "Mohit's Weather Systems1"
             })
             .ToArray();
         }
