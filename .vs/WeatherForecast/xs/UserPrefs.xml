@@ -1,8 +1,8 @@
-﻿<Properties StartupConfiguration="{FE93EBF6-0854-4970-8003-1D784FE2D5BB}|Default">
+﻿<Properties StartupConfiguration="{60A6D003-C839-42F9-BBD2-CB56EA86835C}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
     <Files>
       <File FileName="Dockerfile" Line="5" Column="10" />
-      <File FileName="Program.cs" Line="14" Column="23" />
+      <File FileName="Program.cs" Line="18" Column="10" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -19,7 +19,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.WeatherForecast FirstBuild="True" PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.ItemProperties.WeatherForecast PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MonoDevelop.Ide.ItemProperties.docker-compose PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />

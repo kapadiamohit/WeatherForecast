@@ -11,6 +11,7 @@ namespace WeatherForecast
 {
     public class Program
     {
+        //comment here
         public static void Main(string[] args)
         {
             CreateHostBuilder(args).Build().Run();
